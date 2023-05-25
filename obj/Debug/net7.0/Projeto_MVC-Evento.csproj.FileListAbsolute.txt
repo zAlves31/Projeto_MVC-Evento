@@ -1,0 +1,15 @@
+C:\Users\52546124870\Desktop\Projeto_MVC-Evento\bin\Debug\net7.0\Projeto_MVC-Evento.exe
+C:\Users\52546124870\Desktop\Projeto_MVC-Evento\bin\Debug\net7.0\Projeto_MVC-Evento.deps.json
+C:\Users\52546124870\Desktop\Projeto_MVC-Evento\bin\Debug\net7.0\Projeto_MVC-Evento.runtimeconfig.json
+C:\Users\52546124870\Desktop\Projeto_MVC-Evento\bin\Debug\net7.0\Projeto_MVC-Evento.dll
+C:\Users\52546124870\Desktop\Projeto_MVC-Evento\bin\Debug\net7.0\Projeto_MVC-Evento.pdb
+C:\Users\52546124870\Desktop\Projeto_MVC-Evento\obj\Debug\net7.0\Projeto_MVC-Evento.csproj.AssemblyReference.cache
+C:\Users\52546124870\Desktop\Projeto_MVC-Evento\obj\Debug\net7.0\Projeto_MVC-Evento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52546124870\Desktop\Projeto_MVC-Evento\obj\Debug\net7.0\Projeto_MVC-Evento.AssemblyInfoInputs.cache
+C:\Users\52546124870\Desktop\Projeto_MVC-Evento\obj\Debug\net7.0\Projeto_MVC-Evento.AssemblyInfo.cs
+C:\Users\52546124870\Desktop\Projeto_MVC-Evento\obj\Debug\net7.0\Projeto_MVC-Evento.csproj.CoreCompileInputs.cache
+C:\Users\52546124870\Desktop\Projeto_MVC-Evento\obj\Debug\net7.0\Projeto_MVC-Evento.dll
+C:\Users\52546124870\Desktop\Projeto_MVC-Evento\obj\Debug\net7.0\refint\Projeto_MVC-Evento.dll
+C:\Users\52546124870\Desktop\Projeto_MVC-Evento\obj\Debug\net7.0\Projeto_MVC-Evento.pdb
+C:\Users\52546124870\Desktop\Projeto_MVC-Evento\obj\Debug\net7.0\Projeto_MVC-Evento.genruntimeconfig.cache
+C:\Users\52546124870\Desktop\Projeto_MVC-Evento\obj\Debug\net7.0\ref\Projeto_MVC-Evento.dll
